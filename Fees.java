@@ -19,16 +19,12 @@ public class Fees {
 
         System.out.println("Enter semester = ");
         int sem = Student.nextInt();
-        int sem_fee = 0;
-        int semesters = 7;
-
-
-        for(sem = 0; sem <=semesters; sem++){
-            sem_fee = Sem_One_Fee + ((sem)*1500);
-        }
-
-        System.out.println("Semester " + sem + " Fee = " + sem_fee);
-
+        System.out.println("Enter total semesters = ");
+        int semesters = Student.nextInt();
         Student.close();
+        for(sem = 1; sem <=semesters; sem++){
+            double sem_fee = Sem_One_Fee + (sem - 1)*1500;
+            System.out.println("Semester " + sem + " Fee = Ksh " + sem_fee);
+        }
     }
 }
