@@ -38,7 +38,7 @@ Ensure the `images/` directory contains all required pet images and is located a
 ## 🏁 How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/RadioButtonDemo.git
+git clone https://github.com/Denis-alt254/Java-Sem3/tree/main/RadioButtonDemo/RadioButton
 
 2. Navigate to the project folder and compile:
 javac RadioButtonDemo.java
@@ -53,6 +53,6 @@ Student at Zetech University
 Java Swing Assignment – Object-Oriented Programming II
 
 ## 📬 Contact
-Feel free to reach out via [GitHub Issues](https://github.com/your-username/RadioButtonDemo/issues) for questions or feedback.
+Feel free to reach out via [GitHub Issues](https://github.com/Denis-alt254/Java-Sem3/issues) for questions or feedback.
 
 ---
