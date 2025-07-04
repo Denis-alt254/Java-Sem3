@@ -19,22 +19,6 @@ A simple Java Swing GUI application that allows users to select a pet using radi
 ## 📷 UI Preview
 > Each pet selection updates the image dynamically and triggers a dialog box confirming the user's choice.
 
-## 📁 Project Structure
-
-RadioButtonDemo/ 
-├── src/ 
-    └── RadioButtonDemo.java 
-├── images/ 
-    ├── bird.jpg 
-    ├── cat.jpg 
-    ├── dog.jpg 
-    ├── rabbit.jpg 
-    └── pig.jpg 
-└── README.md
-
-
-Ensure the `images/` directory contains all required pet images and is located at the same level as your compiled `.class` files.
-
 ## 🏁 How to Run
 
 1. Clone the repository:
